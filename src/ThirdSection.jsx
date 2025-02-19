@@ -15,7 +15,7 @@ const ThirdSection = () => {
         </div>
 
 
-        <div className="content-section">
+        <div className="content-section " style={{ overflowX: 'hidden' }}>
             <div className="container">
                 <div className='row section'>
                 <div className="section-number">01</div>
